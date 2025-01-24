@@ -41,7 +41,7 @@ Below shows how agents utilize AIOS SDK to interact with AIOS kernel and how AIO
 - **[2024-03-25]** ✈️ Our paper [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971) is released!
 - **[2023-12-06]** 📋 After several months of working, our perspective paper [LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem](https://arxiv.org/abs/2312.03815) is officially released.
 
-## Different deployment modes of AIOS
+## Different deployment modes of MERLIN
 Here are some key notations that are required to know before introducing the different modes of AIOS. 
 - **AHM (Agent Hub Machine)**: Central server that hosts the agent marketplace/repository where users can publish, download, and share agents. Acts as the distribution center for all agent-related resources.
 - **AUM (Agent UI Machine)**: Client machine that provides user interface for interacting with agents. Can be any device from mobile phones to desktops that supports agent visualization and control.
